@@ -1,0 +1,1593 @@
+﻿Log file open, 06/25/19 22:06:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.295574
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.255s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/EPICGAMES/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.26-04.06.53:035][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.26-04.06.53:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:036][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:039][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.26-04.06.53:039][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.26-04.06.53:040][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.26-04.06.53:040][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-04.06.53:040][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.26-04.06.53:057][  0]LogHAL: Display: Platform has ~ 16 GB [17066803200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.26-04.06.53:057][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.26-04.06.53:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.26-04.06.53:057][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.26-04.06.53:058][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.26-04.06.53:059][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.26-04.06.53:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-04.06.53:059][  0]LogInit: Computer: LAPTOP-ODSBRGOU
+[2019.06.26-04.06.53:059][  0]LogInit: User: xavie
+[2019.06.26-04.06.53:059][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.26-04.06.53:059][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.26-04.06.53:059][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.26-04.06.53:059][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.26-04.06.53:059][  0]LogMemory: Process Physical Memory: 102.22 MB used, 102.23 MB peak
+[2019.06.26-04.06.53:059][  0]LogMemory: Process Virtual Memory: 91.38 MB used, 91.38 MB peak
+[2019.06.26-04.06.53:059][  0]LogMemory: Physical Memory: 8607.37 MB used,  7668.80 MB free, 16276.17 MB total
+[2019.06.26-04.06.53:059][  0]LogMemory: Virtual Memory: 4649.95 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.26-04.06.53:086][  0]LogInit: Using OS detected language (en-US).
+[2019.06.26-04.06.53:086][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.26-04.06.53:088][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.26-04.06.53:512][  0]LogStreaming: Display: Took  0.426s to InitEngineTextLocalization.
+[2019.06.26-04.06.53:512][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.26-04.06.53:566][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.26-04.06.53:566][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.26-04.06.54:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-04.06.54:180][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.26-04.06.54:263][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.06.26-04.06.54:263][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.26-04.06.54:275][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.06.26-04.06.54:275][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.26-04.06.54:279][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.26-04.06.54:279][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.26-04.06.54:279][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.26-04.06.54:326][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.26-04.06.54:326][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.26-04.06.54:326][  0]LogWindows: EnumDisplayDevices:
+[2019.06.26-04.06.54:326][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.06.26-04.06.54:326][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.26-04.06.54:327][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.26-04.06.54:327][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.26-04.06.54:327][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.06.26-04.06.54:327][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.06.26-04.06.54:327][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.06.26-04.06.54:327][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.06.26-04.06.54:327][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.06.26-04.06.54:369][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.26-04.06.54:386][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.26-04.06.54:980][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.26-04.06.54:999][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.26-04.06.55:017][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.26-04.06.55:038][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.26-04.06.55:056][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.26-04.06.55:079][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.26-04.06.55:098][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.26-04.06.55:115][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.26-04.06.55:122][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:254][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:255][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-04.06.55:258][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.26-04.06.55:323][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-04.06.55:323][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-04.06.55:351][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-04.06.55:351][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-04.06.55:367][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.26-04.06.55:381][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.26-04.06.55:401][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.26-04.06.55:417][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.26-04.06.55:473][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.26-04.06.55:473][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.26-04.06.55:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.26-04.06.55:575][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/13968/).
+[2019.06.26-04.06.55:575][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xavie/AppData/Local/Temp/UnrealShaderWorkingDir/C3C787574F7812D8D7D95B872EBF5606/'.
+[2019.06.26-04.06.55:577][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.26-04.06.55:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.26-04.06.55:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.26-04.06.56:270][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.26-04.06.56:328][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.26-04.06.56:346][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.26-04.06.56:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.26-04.06.56:346][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.26-04.06.56:359][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.26-04.06.56:359][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.26-04.06.56:359][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.26-04.06.56:390][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.26-04.06.56:391][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.26-04.06.56:392][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.26-04.06.56:492][  0]LogAssetRegistry: FAssetRegistry took 0.0400 seconds to start up
+[2019.06.26-04.06.57:018][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-04.06.57:237][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.26-04.06.57:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.26-04.06.57:243][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.26-04.06.57:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.26-04.06.57:243][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.26-04.06.57:266][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.26-04.06.58:000][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.182674 seconds
+[2019.06.26-04.06.58:010][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.26-04.06.58:010][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.06.26-04.06.58:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.26-04.06.59:052][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.26-04.06.59:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.26-04.06.59:917][  0]SourceControl: Source control is disabled
+[2019.06.26-04.06.59:917][  0]SourceControl: Source control is disabled
+[2019.06.26-04.06.59:919][  0]SourceControl: Source control is disabled
+[2019.06.26-04.06.59:920][  0]SourceControl: Source control is disabled
+[2019.06.26-04.07.00:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.26-04.07.00:308][  0]LogOcInput: OculusInput pre-init called
+[2019.06.26-04.07.00:452][  0]LogEngine: Initializing Engine...
+[2019.06.26-04.07.00:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-04.07.00:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.26-04.07.00:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-04.07.00:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.26-04.07.00:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-04.07.00:743][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.26-04.07.00:762][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.26-04.07.00:793][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.26-04.07.00:813][  0]LogInit: FAudioDevice initialized.
+[2019.06.26-04.07.00:813][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.26-04.07.00:975][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.26-04.07.00:980][  0]LogInit: Texture streaming: Enabled
+[2019.06.26-04.07.01:005][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.26-04.07.01:020][  0]LogInit: Transaction tracking system initialized
+[2019.06.26-04.07.01:045][  0]BlueprintLog: New page: Editor Load
+[2019.06.26-04.07.01:151][  0]LocalizationService: Localization service is disabled
+[2019.06.26-04.07.01:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/' took 0.02s
+[2019.06.26-04.07.01:698][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.26-04.07.01:698][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.26-04.07.01:698][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.26-04.07.01:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.26-04.07.01:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-04.07.01:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.26-04.07.01:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-04.07.01:850][  0]SourceControl: Source control is disabled
+[2019.06.26-04.07.01:850][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.26-04.07.01:850][  0]LightingResults: New page: Lighting Build
+[2019.06.26-04.07.01:853][  0]MapCheck: New page: Map Check
+[2019.06.26-04.07.01:853][  0]LightingResults: New page: Lighting Build
+[2019.06.26-04.07.02:083][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.26-04.07.02:092][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.26-04.07.02:119][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.26-04.07.02:120][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.06.26-04.07.02:120][  0]LogFileHelpers: Loading map 'Template_Default' took 0.270
+[2019.06.26-04.07.02:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.07.02:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.07.02:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.07.02:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.07.02:287][  0]LogCollectionManager: Loaded 0 collections in 0.001961 seconds
+[2019.06.26-04.07.02:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.26-04.07.02:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Developers/xavie/Collections/' took 0.00s
+[2019.06.26-04.07.02:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Collections/' took 0.00s
+[2019.06.26-04.07.02:304][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.26-04.07.02:315][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2651 classes and 620 folders.
+[2019.06.26-04.07.02:322][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.26-04.07.02:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-04.07.02:457][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.26-04.07.02:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.26-04.07.02:482][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.26-04.07.02:486][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.26-04.07.02:493][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.26-04.07.02:620][  0]LogRenderer: Reallocating scene render targets to support 1004x460 Format 10 NumSamples 1 (Frame:1).
+[2019.06.26-04.07.02:816][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.26-04.07.02:816][  0]LogLoad: (Engine Initialization) Total time: 14.18 seconds
+[2019.06.26-04.07.02:816][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.26-04.07.02:882][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.26-04.07.02:978][  2]LogAssetRegistry: Asset discovery search completed in 6.5095 seconds
+[2019.06.26-04.07.02:980][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.26-04.07.02:980][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.06.26-04.07.03:857][ 50]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-04.07.06:908][232]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-04.17.22:804][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.17.25:390][358]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.18.00:283][ 57]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.18.00:786][ 58]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.18.29:382][852]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.18.31:964][892]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.19.32:899][575]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.19.36:501][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.20.26:605][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.20.29:184][731]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.20.55:263][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.20.57:840][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.26-04.21.08:281][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.26-04.21.14:634][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.21.24:890][325]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.26-04.21.24:927][325]LogAssetEditorManager: Opening Asset editor for World /Game/CastleBlocks/Xavier_Level.Xavier_Level
+[2019.06.26-04.21.24:964][325]Cmd: MAP LOAD FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.26-04.21.24:964][325]LightingResults: New page: Lighting Build
+[2019.06.26-04.21.24:965][325]LoadErrors: New page: Loading map: Xavier_Level.umap
+[2019.06.26-04.21.24:966][325]MapCheck: New page: Map Check
+[2019.06.26-04.21.24:967][325]LightingResults: New page: Lighting Build
+[2019.06.26-04.21.25:037][325]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.26-04.21.25:085][325]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.26-04.21.25:086][325]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.293ms to complete.
+[2019.06.26-04.21.25:086][325]LogFileHelpers: Loading map 'Xavier_Level' took 0.122
+[2019.06.26-04.21.40:081][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.21.50:710][620]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Xavier_Vehicle/testVehicle.testVehicle
+[2019.06.26-04.21.52:172][621]LogRenderer: Reallocating scene render targets to support 1192x744 Format 10 NumSamples 1 (Frame:1).
+[2019.06.26-04.22.15:404][491]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/cannon001.obj)
+[2019.06.26-04.22.15:424][491]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/cannon001.obj
+[2019.06.26-04.22.15:447][491]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.22.23:837][491]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.22.24:136][491]LogFbx: Warning: Triangulating static mesh pCylinder7
+[2019.06.26-04.22.24:235][491]LogStaticMesh: Building static mesh cannon001...
+[2019.06.26-04.22.24:259][491]LogStaticMesh: Built static mesh [0.02s] /Game/CastleBlocks/cannon001.cannon001
+[2019.06.26-04.22.24:264][491]LogStaticMesh: Warning: cannon001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.26-04.22.24:264][491]LogStaticMesh: Warning: cannon001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.26-04.22.24:278][491]FBXImport: Warning: cannon001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.26-04.22.24:278][491]FBXImport: Warning: cannon001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.26-04.22.26:495][589]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.22.26:506][589]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.22.28:146][676]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CastleBlocks/cannon001.cannon001
+[2019.06.26-04.22.30:372][750]LogSlate: Took 0.023414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.26-04.22.30:444][755]LogSlate: Window 'cannon001*' being destroyed
+[2019.06.26-04.22.30:465][756]LogRenderer: Reallocating scene render targets to support 2008x916 Format 10 NumSamples 1 (Frame:2050).
+[2019.06.26-04.22.35:832][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.22.42:662][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.22.49:066][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.22.49:118][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/cannon001" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/cannon001.uasset" SILENT=true
+[2019.06.26-04.22.49:135][810]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/cannon0010D0079F0438011C05EBDA082D551E34C.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/cannon001.uasset'
+[2019.06.26-04.22.51:653][936]LogActorFactory: Actor Factory created cannon001
+[2019.06.26-04.22.53:599][ 35]LogActorFactory: Actor Factory created cannon001
+[2019.06.26-04.24.32:760][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cannon2)
+[2019.06.26-04.24.58:356][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.25.01:546][ 69]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/well001.obj)
+[2019.06.26-04.25.01:584][ 69]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/well001.obj
+[2019.06.26-04.25.01:607][ 69]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.25.05:016][ 69]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.25.05:070][ 69]LogFbx: Warning: Triangulating static mesh polySurface3
+[2019.06.26-04.25.05:173][ 69]LogStaticMesh: Building static mesh well001...
+[2019.06.26-04.25.05:207][ 69]LogStaticMesh: Built static mesh [0.03s] /Game/CastleBlocks/well001.well001
+[2019.06.26-04.25.05:211][ 69]LogStaticMesh: Warning: well001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.26-04.25.05:211][ 69]LogStaticMesh: Warning: well001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.26-04.25.05:225][ 69]FBXImport: Warning: well001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.26-04.25.05:226][ 69]FBXImport: Warning: well001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.26-04.25.06:940][130]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.25.10:752][323]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CastleBlocks/well001.well001
+[2019.06.26-04.25.12:661][379]LogSlate: Window 'well001*' being destroyed
+[2019.06.26-04.25.20:612][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.25.20:642][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/well001" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/well001.uasset" SILENT=true
+[2019.06.26-04.25.20:662][823]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/well00173AEF8F64CE79309B0495CAF8186A0A1.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/well001.uasset'
+[2019.06.26-04.25.25:906][ 15]LogSlate: Window 'Save Asset As' being destroyed
+[2019.06.26-04.25.31:500][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/well001" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/well001.uasset" SILENT=true
+[2019.06.26-04.25.31:559][321]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/well0016BF9E49343ACD9B192F1309275DC25DC.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/well001.uasset'
+[2019.06.26-04.25.35:738][481]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CastleBlocks/cannon001.cannon001
+[2019.06.26-04.25.44:237][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/cannon001" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/cannon001.uasset" SILENT=true
+[2019.06.26-04.25.44:282][897]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/cannon0018EC991934F59BDA6A651BC8447E51A67.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/cannon001.uasset'
+[2019.06.26-04.25.51:621][128]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.26-04.25.57:094][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.25.57:386][354]LogActorFactory: Actor Factory created well001
+[2019.06.26-04.25.58:326][395]LogActorFactory: Actor Factory created well001
+[2019.06.26-04.26.42:019][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.26.52:646][693]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.26.52:653][693]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/chest.obj)
+[2019.06.26-04.26.52:658][693]LogEditorFactories: Performing atomic reimport of [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/chest.obj]
+[2019.06.26-04.26.52:674][693]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/chest.obj
+[2019.06.26-04.26.52:692][693]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.26.52:706][693]LogFbx: Warning: Triangulating static mesh pCube1
+[2019.06.26-04.26.52:759][693]LogStaticMesh: Building static mesh chest...
+[2019.06.26-04.26.52:776][693]LogStaticMesh: Built static mesh [0.02s] /Game/CastleBlocks/chest.chest
+[2019.06.26-04.26.54:596][693]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2019.06.26-04.26.54:605][693]LogEditorFactories: -- imported successfully
+[2019.06.26-04.26.56:629][774]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CastleBlocks/chest.chest
+[2019.06.26-04.27.06:838][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.27.06:870][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/chest" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/chest.uasset" SILENT=true
+[2019.06.26-04.27.06:920][282]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/chestB8DC3E134B792A90DD1B459373BC2957.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/chest.uasset'
+[2019.06.26-04.27.14:403][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.27.29:757][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/chest" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/chest.uasset" SILENT=true
+[2019.06.26-04.27.29:823][366]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/chestB61A24FB47C2133AF5A3CFA938BBB718.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/chest.uasset'
+[2019.06.26-04.27.36:226][556]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_LevelE799940C473B189E5183F58A998AB318.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.27.36:253][556]LogFileHelpers: Saving map 'Xavier_Level' took 1.487
+[2019.06.26-04.27.52:871][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testVehicle)
+[2019.06.26-04.27.54:433][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.28.07:576][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.28.26:922][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock204)
+[2019.06.26-04.28.33:259][744]Cmd: TRANSACTION UNDO
+[2019.06.26-04.28.33:259][744]LogEditorTransaction: Undo Move Actors
+[2019.06.26-04.28.58:030][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock515)
+[2019.06.26-04.29.01:694][985]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock467)
+[2019.06.26-04.29.02:015][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock575)
+[2019.06.26-04.29.02:511][ 12]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock521)
+[2019.06.26-04.29.03:162][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock516)
+[2019.06.26-04.29.03:828][ 63]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock468)
+[2019.06.26-04.29.04:579][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock576)
+[2019.06.26-04.29.05:162][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock522)
+[2019.06.26-04.29.05:848][140]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock517)
+[2019.06.26-04.29.06:207][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock469)
+[2019.06.26-04.29.06:487][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock577)
+[2019.06.26-04.29.06:799][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock523)
+[2019.06.26-04.29.07:391][193]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock518)
+[2019.06.26-04.29.08:019][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock470)
+[2019.06.26-04.29.08:338][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock578)
+[2019.06.26-04.29.08:633][237]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock524)
+[2019.06.26-04.29.13:297][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock475)
+[2019.06.26-04.29.13:648][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock474)
+[2019.06.26-04.29.14:168][468]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock433)
+[2019.06.26-04.29.14:530][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock432)
+[2019.06.26-04.29.14:866][491]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock427)
+[2019.06.26-04.29.15:191][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock426)
+[2019.06.26-04.29.15:650][518]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock555)
+[2019.06.26-04.29.16:264][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock692)
+[2019.06.26-04.29.16:946][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock688)
+[2019.06.26-04.29.17:338][582]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock568)
+[2019.06.26-04.29.17:713][595]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock684)
+[2019.06.26-04.29.18:382][621]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock564)
+[2019.06.26-04.29.18:791][635]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock565)
+[2019.06.26-04.29.19:141][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock685)
+[2019.06.26-04.29.19:497][659]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock579)
+[2019.06.26-04.29.19:864][671]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock689)
+[2019.06.26-04.29.20:242][684]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock693)
+[2019.06.26-04.29.20:677][699]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock561)
+[2019.06.26-04.29.21:299][722]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock566)
+[2019.06.26-04.29.21:637][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock686)
+[2019.06.26-04.29.22:058][748]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock580)
+[2019.06.26-04.29.22:422][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock690)
+[2019.06.26-04.29.22:716][768]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock694)
+[2019.06.26-04.29.23:068][780]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock562)
+[2019.06.26-04.29.23:639][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock567)
+[2019.06.26-04.29.23:982][813]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock687)
+[2019.06.26-04.29.24:566][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock581)
+[2019.06.26-04.29.24:865][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock691)
+[2019.06.26-04.29.25:465][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock695)
+[2019.06.26-04.29.26:006][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock563)
+[2019.06.26-04.29.26:980][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock546)
+[2019.06.26-04.29.27:361][941]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock530)
+[2019.06.26-04.29.27:704][952]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock529)
+[2019.06.26-04.29.28:132][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock528)
+[2019.06.26-04.29.28:816][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock481)
+[2019.06.26-04.29.29:189][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock480)
+[2019.06.26-04.29.31:578][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.29.40:400][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (top40)
+[2019.06.26-04.29.59:654][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.30.34:272][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.30.51:888][756]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj)
+[2019.06.26-04.30.51:902][756]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj
+[2019.06.26-04.30.51:903][756]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.30.51:909][756]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2019.06.26-04.30.59:039][756]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.30.59:048][756]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj'. Failed to create asset '/Game/mannequin/skeleton'.
+Please see Output Log for details.
+[2019.06.26-04.31.02:902][910]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.31.02:916][910]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.31.07:454][961]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj)
+[2019.06.26-04.31.07:469][961]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj
+[2019.06.26-04.31.07:470][961]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.31.07:474][961]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2019.06.26-04.31.08:957][961]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.31.08:966][961]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton.obj'. Failed to create asset '/Game/mannequin/skeleton'.
+Please see Output Log for details.
+[2019.06.26-04.31.37:434][117]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.31.37:450][117]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.31.43:300][254]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level078B74A7470D777CABF7048F9967E38B.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.31.43:331][254]LogFileHelpers: Saving map 'Xavier_Level' took 1.646
+[2019.06.26-04.45.59:538][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.45.59:542][756]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.26-04.45.59:543][756]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.26-04.46.09:988][952]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/gate002.obj)
+[2019.06.26-04.46.10:003][952]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/gate002.obj
+[2019.06.26-04.46.10:011][952]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.46.12:627][952]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.46.12:655][952]LogFbx: Warning: Triangulating static mesh pCube3
+[2019.06.26-04.46.12:721][952]LogStaticMesh: Building static mesh gate002...
+[2019.06.26-04.46.12:736][952]LogStaticMesh: Built static mesh [0.02s] /Game/CastleBlocks/gate002.gate002
+[2019.06.26-04.46.14:397][  7]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CastleBlocks/gate002.gate002
+[2019.06.26-04.46.22:707][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.46.26:523][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.46.26:663][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CastleBlocks/gate002" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/gate002.uasset" SILENT=true
+[2019.06.26-04.46.26:680][668]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/gate002C3B5E0B448DFAF83C9C5F0B0BB8F0CA0.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/gate002.uasset'
+[2019.06.26-04.46.28:194][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.46.34:058][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.46.34:412][979]LogActorFactory: Actor Factory created gate002
+[2019.06.26-04.46.36:603][ 61]LogActorFactory: Actor Factory created gate002
+[2019.06.26-04.47.10:847][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.47.12:006][366]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_LevelE218EC084CE2C6CB409893BC9914D887.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.47.12:167][366]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level_BuiltDataABEE1CB045AD27E12762908C125AEB15.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level_BuiltData.uasset'
+[2019.06.26-04.47.44:857][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cornerPiece)
+[2019.06.26-04.47.45:851][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate4)
+[2019.06.26-04.47.59:056][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.48.00:264][159]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level5DD305A24C432B9B2546FCB67D5B8E68.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.48.00:389][159]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level_BuiltDataA05AC15E49049361A5E1A1A5B8FDC34B.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level_BuiltData.uasset'
+[2019.06.26-04.48.52:731][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock430)
+[2019.06.26-04.49.32:179][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.49.32:330][443]LogActorFactory: Actor Factory created kingBody4Unreal
+[2019.06.26-04.49.35:017][594]LogActorFactory: Actor Factory created kingBody4Unreal
+[2019.06.26-04.49.50:247][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.49.51:331][495]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level35C0A2854D55BFA4EECEBA8F45CECB08.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.49.51:461][495]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level_BuiltDataD44E77D746AB0892D867ECB19F230F5B.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level_BuiltData.uasset'
+[2019.06.26-04.49.54:638][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.50.12:020][676]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.51.00:645][926]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.598 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.26-04.53.56:050][504]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton002.fbx)
+[2019.06.26-04.53.56:063][504]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton002.fbx
+[2019.06.26-04.53.56:082][504]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.54.01:629][504]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.54.01:662][504]LogFbx: Warning: Triangulating static mesh polySurface1
+[2019.06.26-04.54.01:695][504]LogStaticMesh: Building static mesh skeleton002_polySurface1...
+[2019.06.26-04.54.01:704][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface1.skeleton002_polySurface1
+[2019.06.26-04.54.01:716][504]LogFbx: Warning: Triangulating static mesh polySurface2
+[2019.06.26-04.54.01:744][504]LogStaticMesh: Building static mesh skeleton002_polySurface2...
+[2019.06.26-04.54.01:751][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface2.skeleton002_polySurface2
+[2019.06.26-04.54.01:761][504]LogFbx: Warning: Triangulating static mesh polySurface3
+[2019.06.26-04.54.01:796][504]LogStaticMesh: Building static mesh skeleton002_polySurface3...
+[2019.06.26-04.54.01:805][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface3.skeleton002_polySurface3
+[2019.06.26-04.54.01:816][504]LogFbx: Warning: Triangulating static mesh polySurface4
+[2019.06.26-04.54.01:855][504]LogStaticMesh: Building static mesh skeleton002_polySurface4...
+[2019.06.26-04.54.01:865][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface4.skeleton002_polySurface4
+[2019.06.26-04.54.01:876][504]LogFbx: Warning: Triangulating static mesh polySurface5
+[2019.06.26-04.54.01:907][504]LogStaticMesh: Building static mesh skeleton002_polySurface5...
+[2019.06.26-04.54.01:915][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface5.skeleton002_polySurface5
+[2019.06.26-04.54.01:925][504]LogFbx: Warning: Triangulating static mesh polySurface6
+[2019.06.26-04.54.01:963][504]LogStaticMesh: Building static mesh skeleton002_polySurface6...
+[2019.06.26-04.54.01:974][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface6.skeleton002_polySurface6
+[2019.06.26-04.54.01:982][504]LogFbx: Warning: Triangulating static mesh polySurface7
+[2019.06.26-04.54.02:030][504]LogStaticMesh: Building static mesh skeleton002_polySurface7...
+[2019.06.26-04.54.02:040][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface7.skeleton002_polySurface7
+[2019.06.26-04.54.02:049][504]LogFbx: Warning: Triangulating static mesh polySurface8
+[2019.06.26-04.54.02:073][504]LogStaticMesh: Building static mesh skeleton002_polySurface8...
+[2019.06.26-04.54.02:078][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface8.skeleton002_polySurface8
+[2019.06.26-04.54.02:087][504]LogFbx: Warning: Triangulating static mesh polySurface9
+[2019.06.26-04.54.02:123][504]LogStaticMesh: Building static mesh skeleton002_polySurface9...
+[2019.06.26-04.54.02:132][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface9.skeleton002_polySurface9
+[2019.06.26-04.54.02:143][504]LogFbx: Warning: Triangulating static mesh polySurface10
+[2019.06.26-04.54.02:173][504]LogStaticMesh: Building static mesh skeleton002_polySurface10...
+[2019.06.26-04.54.02:182][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface10.skeleton002_polySurface10
+[2019.06.26-04.54.02:192][504]LogFbx: Warning: Triangulating static mesh polySurface11
+[2019.06.26-04.54.02:232][504]LogStaticMesh: Building static mesh skeleton002_polySurface11...
+[2019.06.26-04.54.02:241][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface11.skeleton002_polySurface11
+[2019.06.26-04.54.02:251][504]LogFbx: Warning: Triangulating static mesh polySurface12
+[2019.06.26-04.54.02:278][504]LogStaticMesh: Building static mesh skeleton002_polySurface12...
+[2019.06.26-04.54.02:285][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface12.skeleton002_polySurface12
+[2019.06.26-04.54.02:294][504]LogFbx: Warning: Triangulating static mesh polySurface13
+[2019.06.26-04.54.02:335][504]LogStaticMesh: Building static mesh skeleton002_polySurface13...
+[2019.06.26-04.54.02:346][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface13.skeleton002_polySurface13
+[2019.06.26-04.54.02:356][504]LogFbx: Warning: Triangulating static mesh polySurface14
+[2019.06.26-04.54.02:396][504]LogStaticMesh: Building static mesh skeleton002_polySurface14...
+[2019.06.26-04.54.02:405][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface14.skeleton002_polySurface14
+[2019.06.26-04.54.02:417][504]LogFbx: Warning: Triangulating static mesh polySurface15
+[2019.06.26-04.54.02:448][504]LogStaticMesh: Building static mesh skeleton002_polySurface15...
+[2019.06.26-04.54.02:456][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface15.skeleton002_polySurface15
+[2019.06.26-04.54.02:465][504]LogFbx: Warning: Triangulating static mesh polySurface16
+[2019.06.26-04.54.02:503][504]LogStaticMesh: Building static mesh skeleton002_polySurface16...
+[2019.06.26-04.54.02:517][504]LogStaticMesh: Built static mesh [0.01s] /Game/mannequin/skeleton002_polySurface16.skeleton002_polySurface16
+[2019.06.26-04.54.02:533][504]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.26-04.54.05:677][662]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.54.05:688][662]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.54.25:050][901]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton002.fbx)
+[2019.06.26-04.54.25:064][901]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton002.fbx
+[2019.06.26-04.54.25:086][901]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.54.26:812][901]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.54.26:837][901]LogFbx: Warning: Triangulating static mesh group3
+[2019.06.26-04.54.27:395][901]LogStaticMesh: Building static mesh skeleton002...
+[2019.06.26-04.54.27:590][901]LogStaticMesh: Built static mesh [0.20s] /Game/mannequin/skeleton002.skeleton002
+[2019.06.26-04.54.27:656][901]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.26-04.54.29:957][ 11]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.54.29:967][ 11]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.54.37:849][242]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.26-04.54.40:235][347]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/mannequin/skeleton002.skeleton002
+[2019.06.26-04.54.42:234][405]LogSlate: Window 'skeleton002*' being destroyed
+[2019.06.26-04.54.47:524][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/skeleton002" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton002.uasset" SILENT=true
+[2019.06.26-04.54.47:542][672]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton00296F9C72E4DF797D007D22BAAE63324E2.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton002.uasset'
+[2019.06.26-04.54.50:597][760]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.26-04.54.58:568][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.54.58:720][203]LogActorFactory: Actor Factory created skeleton002
+[2019.06.26-04.54.59:699][250]LogActorFactory: Actor Factory created skeleton002
+[2019.06.26-04.56.10:256][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.56.12:337][242]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx)
+[2019.06.26-04.56.12:355][242]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx
+[2019.06.26-04.56.12:395][242]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.56.26:000][242]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.56.56:780][715]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton003.fbx)
+[2019.06.26-04.56.56:799][715]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/skeleton003.fbx
+[2019.06.26-04.56.56:843][715]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.57.02:898][715]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.57.02:929][715]LogFbx: =================================================
+[2019.06.26-04.57.02:929][715]LogFbx: Dumping Node START [group3] 
+[2019.06.26-04.57.02:929][715]LogFbx: 	Total Deformer Count -821193384.
+[2019.06.26-04.57.02:929][715]LogFbx: 	Attribute () Type (4).
+[2019.06.26-04.57.02:929][715]LogFbx: 		[Node Attribute Child 1] group3 (Type Mesh).
+[2019.06.26-04.57.02:929][715]LogFbx: Dumping Node END [group3]
+[2019.06.26-04.57.02:930][715]LogFbx: =================================================
+[2019.06.26-04.57.02:930][715]LogFbx: Dumping Node START [group3] 
+[2019.06.26-04.57.02:930][715]LogFbx: 	Total Deformer Count -821193104.
+[2019.06.26-04.57.02:930][715]LogFbx: 	Attribute () Type (4).
+[2019.06.26-04.57.02:930][715]LogFbx: 		[Node Attribute Child 1] group3 (Type Mesh).
+[2019.06.26-04.57.02:930][715]LogFbx: Dumping Node END [group3]
+[2019.06.26-04.57.02:935][715]LogFbx: Triangulating skeletal mesh group3
+[2019.06.26-04.57.03:423][715]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.06.26-04.57.03:627][715]LogSkeletalMesh: Section 0: 5446 vertices, 1 active bones
+[2019.06.26-04.57.03:628][715]LogSkeletalMesh: Section 0: Material=0, 8791 triangles
+[2019.06.26-04.57.03:629][715]LogSkeletalMesh: Building Skeletal Mesh skeleton003...
+[2019.06.26-04.57.03:641][715]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-04.57.03:646][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_Skeleton'
+[2019.06.26-04.57.03:646][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_Skeleton'
+[2019.06.26-04.57.03:648][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_PhysicsAsset'
+[2019.06.26-04.57.03:648][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_PhysicsAsset'
+[2019.06.26-04.57.03:657][715]LogMaterial: Warning: Material /Game/woodBlocksContent/King.King needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.26-04.57.03:660][715]LogMaterial: Display: Missing cached shader map for material King, compiling. 
+[2019.06.26-04.57.03:741][715]LogFbx: =================================================
+[2019.06.26-04.57.03:741][715]LogFbx: Dumping Node START [group3] 
+[2019.06.26-04.57.03:741][715]LogFbx: 	Total Deformer Count 672234680.
+[2019.06.26-04.57.03:741][715]LogFbx: 	Attribute () Type (4).
+[2019.06.26-04.57.03:741][715]LogFbx: 		[Node Attribute Child 1] group3 (Type Mesh).
+[2019.06.26-04.57.03:741][715]LogFbx: Dumping Node END [group3]
+[2019.06.26-04.57.03:742][715]LogFbx: =================================================
+[2019.06.26-04.57.03:742][715]LogFbx: Dumping Node START [group3] 
+[2019.06.26-04.57.03:742][715]LogFbx: 	Total Deformer Count 672231432.
+[2019.06.26-04.57.03:742][715]LogFbx: 	Attribute () Type (4).
+[2019.06.26-04.57.03:742][715]LogFbx: 		[Node Attribute Child 1] group3 (Type Mesh).
+[2019.06.26-04.57.03:742][715]LogFbx: Dumping Node END [group3]
+[2019.06.26-04.57.03:743][715]LogFbx: SortedLinks :(0) group3
+[2019.06.26-04.57.03:743][715]LogFbx: Parsing AnimStack Take 001
+[2019.06.26-04.57.03:744][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_Anim'
+[2019.06.26-04.57.03:745][715]LogLinker: Can't find file '/Game/mannequin/skeleton003_Anim'
+[2019.06.26-04.57.03:748][715]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.26-04.57.03:748][715]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.26-04.57.03:748][715]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.26-04.57.03:748][715]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.26-04.57.03:756][715]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mannequin/skeleton003_Anim.skeleton003_Anim
+[2019.06.26-04.57.03:756][715]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.skeleton003_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.26-04.57.03:760][715]LogSkeletalMesh: Building Skeletal Mesh skeleton003...
+[2019.06.26-04.57.03:778][715]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.03:787][715]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.26-04.57.03:788][715]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.06.26-04.57.03:810][715]LogSkeletalMesh: Building Skeletal Mesh skeleton003...
+[2019.06.26-04.57.03:825][715]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-04.57.06:225][825]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.57.06:242][825]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.57.10:144][970]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.26-04.57.11:158][ 17]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.26-04.57.13:173][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.57.13:360][117]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-04.57.13:499][117]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.26-04.57.13:512][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-04.57.13:517][117]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.06.26-04.57.13:583][117]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-04.57.14:043][117]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.06.26-04.57.19:908][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skeleton002)
+[2019.06.26-04.57.21:143][506]Cmd: DELETE
+[2019.06.26-04.57.21:143][506]Cmd: ACTOR DELETE
+[2019.06.26-04.57.21:179][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.26-04.57.21:204][506]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.06.26-04.57.22:570][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.57.25:425][621]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.26-04.57.33:720][782]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx)
+[2019.06.26-04.57.33:734][782]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx
+[2019.06.26-04.57.33:767][782]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.57.35:671][782]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:707][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:708][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:709][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:709][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:709][782]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.57.35:709][782]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-04.57.35:709][782]FBXImport: Error: Import failed. 
+[2019.06.26-04.57.38:219][782]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.57.38:228][782]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx'. Failed to create asset '/Game/mannequin/walkAnimation'.
+Please see Output Log for details.
+[2019.06.26-04.57.40:975][932]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.57.40:986][932]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.57.42:417][ 18]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (skeleton003)
+[2019.06.26-04.57.48:753][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.57.52:407][458]LogTemp: Repeating last play command: Simulate
+[2019.06.26-04.57.52:417][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.57.52:417][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-04.57.52:418][458]PIE: New page: SIE session: Xavier_Level (Jun 25, 2019, 4:57:52 PM)
+[2019.06.26-04.57.52:432][458]LogPlayLevel: Creating play world package: /Game/CastleBlocks/UEDPIE_0_Xavier_Level
+[2019.06.26-04.57.52:492][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059841s)
+[2019.06.26-04.57.52:493][458]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.26-04.57.52:493][458]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.06.26-04.57.52:494][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CastleBlocks/Xavier_Level.Xavier_Level to /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level (0.061516s)
+[2019.06.26-04.57.52:531][458]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.26-04.57.52:545][458]LogInit: FAudioDevice initialized.
+[2019.06.26-04.57.52:595][458]LogLoad: Game class is 'GameModeBase'
+[2019.06.26-04.57.52:619][458]LogWorld: Bringing World /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level up for play (max tick rate 60) at 2019.06.25-22.57.52
+[2019.06.26-04.57.52:620][458]LogWorld: Bringing up level for play took: 0.024141
+[2019.06.26-04.57.52:639][458]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.06.26-04.57.52:640][458]PIE: Play in editor start time for /Game/CastleBlocks/UEDPIE_0_Xavier_Level -0.687
+[2019.06.26-04.57.53:103][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.57.55:757][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.57.55:758][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.57.55:804][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-04.57.55:804][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.57.55:847][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.57.55:869][599]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.26-04.58.01:849][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kingBody4Unreal)
+[2019.06.26-04.58.02:960][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.58.03:043][  7]LogTemp: Repeating last play command: Simulate
+[2019.06.26-04.58.03:053][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.58.03:053][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.26-04.58.03:054][  7]PIE: New page: SIE session: Xavier_Level (Jun 25, 2019, 4:58:03 PM)
+[2019.06.26-04.58.03:054][  7]LogPlayLevel: Creating play world package: /Game/CastleBlocks/UEDPIE_0_Xavier_Level
+[2019.06.26-04.58.03:118][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065119s)
+[2019.06.26-04.58.03:119][  7]LogAIModule: Creating AISystem for world Xavier_Level
+[2019.06.26-04.58.03:119][  7]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2019.06.26-04.58.03:120][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CastleBlocks/Xavier_Level.Xavier_Level to /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level (0.066687s)
+[2019.06.26-04.58.03:158][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.26-04.58.03:168][  7]LogInit: FAudioDevice initialized.
+[2019.06.26-04.58.03:202][  7]LogLoad: Game class is 'GameModeBase'
+[2019.06.26-04.58.03:225][  7]LogWorld: Bringing World /Game/CastleBlocks/UEDPIE_0_Xavier_Level.Xavier_Level up for play (max tick rate 60) at 2019.06.25-22.58.03
+[2019.06.26-04.58.03:226][  7]LogWorld: Bringing up level for play took: 0.022298
+[2019.06.26-04.58.03:240][  7]PIE: Play in editor start time for /Game/CastleBlocks/UEDPIE_0_Xavier_Level -0.087
+[2019.06.26-04.58.03:265][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.58.04:868][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.58.04:869][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.58.04:914][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.26-04.58.04:915][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel' has LevelScriptBlueprint '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level' with GeneratedClass '/Game/CastleBlocks/Xavier_Level.Xavier_Level_C' with ClassGeneratedBy '/Game/CastleBlocks/Xavier_Level.Xavier_Level:PersistentLevel.Xavier_Level'
+[2019.06.26-04.58.04:942][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-04.58.04:976][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.06.26-04.58.05:675][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kingBody4Unreal)
+[2019.06.26-04.58.06:583][176]Cmd: DELETE
+[2019.06.26-04.58.06:583][176]Cmd: ACTOR DELETE
+[2019.06.26-04.58.06:626][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.26-04.58.06:656][176]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.06.26-04.58.15:459][697]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (skeleton003)
+[2019.06.26-04.58.30:843][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.58.35:385][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.58.58:556][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.58.59:527][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.59.00:668][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Xavier_Level5D89208F44DBADC66014F4AE63837A66.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/Xavier_Level.umap'
+[2019.06.26-04.59.00:695][271]LogFileHelpers: Saving map 'Xavier_Level' took 1.149
+[2019.06.26-04.59.00:739][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/King" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/woodBlocksContent/King.uasset" SILENT=true
+[2019.06.26-04.59.00:781][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/KingA7D61A0B462F0E7E64E831B7009F2452.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/woodBlocksContent/King.uasset'
+[2019.06.26-04.59.00:824][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/initialShadingGroup48F94DB6341CE0793AE66B38B93401628.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/CastleBlocks/initialShadingGroup4.uasset'
+[2019.06.26-04.59.00:871][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton003_PhysicsAssetFF1FAEE14A3B31C763F0C7AB6302F23D.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003_PhysicsAsset.uasset'
+[2019.06.26-04.59.00:900][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/skeleton003_Anim" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003_Anim.uasset" SILENT=true
+[2019.06.26-04.59.00:916][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton003_Anim125FEEDD4173A987C3065E9EFCC65C62.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003_Anim.uasset'
+[2019.06.26-04.59.00:923][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/skeleton003_Skeleton" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003_Skeleton.uasset" SILENT=true
+[2019.06.26-04.59.00:927][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton003_Skeleton5119BAC640B1CBD9CCF473B8399AD1AE.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003_Skeleton.uasset'
+[2019.06.26-04.59.00:959][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/lambert1" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/lambert1.uasset" SILENT=true
+[2019.06.26-04.59.00:972][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/lambert1AA12E79C45AC30FD500E0987D8C7E017.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/lambert1.uasset'
+[2019.06.26-04.59.00:999][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/skeleton003" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003.uasset" SILENT=true
+[2019.06.26-04.59.01:027][271]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton003AA72A99A4C65F3EA549EABBF7FC7536C.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003.uasset'
+[2019.06.26-04.59.02:067][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.59.04:969][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.59.04:983][332]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx)
+[2019.06.26-04.59.04:997][332]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx
+[2019.06.26-04.59.05:028][332]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-04.59.13:113][332]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:150][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-04.59.13:151][332]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-04.59.13:151][332]FBXImport: Error: Import failed. 
+[2019.06.26-04.59.17:105][332]LogSlate: Window 'Message' being destroyed
+[2019.06.26-04.59.17:115][332]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation.fbx'. Failed to create asset '/Game/mannequin/walkAnimation'.
+Please see Output Log for details.
+[2019.06.26-04.59.18:194][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.59.18:274][395]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-04.59.18:284][395]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.00.01:266][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.00.03:423][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.00.03:437][624]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx)
+[2019.06.26-05.00.03:451][624]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx
+[2019.06.26-05.00.03:485][624]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-05.00.05:065][624]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:099][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.00.05:100][624]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-05.00.05:100][624]FBXImport: Error: Import failed. 
+[2019.06.26-05.00.11:598][624]LogSlate: Window 'Message' being destroyed
+[2019.06.26-05.00.11:610][624]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx'. Failed to create asset '/Game/mannequin/walkAnimation002'.
+Please see Output Log for details.
+[2019.06.26-05.00.27:627][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.00.27:726][566]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.00.27:735][566]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.00.28:780][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.00.38:671][192]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-05.00.38:688][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-05.00.38:732][192]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-05.00.42:361][315]LogSlate: Window 'skeleton003' being destroyed
+[2019.06.26-05.00.44:097][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.00.45:379][473]LogSkeletalMesh: Building Skeletal Mesh skeleton003...
+[2019.06.26-05.00.45:391][473]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/mannequin/skeleton003.skeleton003
+[2019.06.26-05.00.47:652][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mannequin/skeleton003" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003.uasset" SILENT=true
+[2019.06.26-05.00.47:714][600]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/skeleton003105DB1D7430FEBBCF7FA06A412DE1EFD.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/mannequin/skeleton003.uasset'
+[2019.06.26-05.00.51:595][701]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.26-05.00.51:617][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.00.51:662][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.00.51:697][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.00.53:049][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.01.20:404][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.01.20:421][749]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx)
+[2019.06.26-05.01.20:435][749]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx
+[2019.06.26-05.01.20:464][749]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-05.01.38:845][749]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:876][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.01.38:877][749]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-05.01.38:877][749]FBXImport: Error: Import failed. 
+[2019.06.26-05.01.41:028][749]LogSlate: Window 'Message' being destroyed
+[2019.06.26-05.01.41:038][749]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx'. Failed to create asset '/Game/mannequin/walkAnimation002'.
+Please see Output Log for details.
+[2019.06.26-05.01.42:916][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.01.43:086][856]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Shared/Editor/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2019.06.26-05.02.05:411][986]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.02.06:665][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.02.14:290][509]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/mannequin/skeleton003_Anim.skeleton003_Anim
+[2019.06.26-05.02.14:746][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.26-05.02.14:773][509]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.26-05.02.15:179][509]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.26-05.02.52:108][437]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx)
+[2019.06.26-05.02.52:122][437]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx
+[2019.06.26-05.02.52:152][437]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-05.02.56:770][437]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:800][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.02.56:801][437]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-05.02.56:801][437]FBXImport: Error: Import failed. 
+[2019.06.26-05.03.06:552][437]LogSlate: Window 'Message' being destroyed
+[2019.06.26-05.03.06:564][437]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx'. Failed to create asset '/Game/CastleBlocks/walkAnimation002'.
+Please see Output Log for details.
+[2019.06.26-05.03.10:292][651]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.03.10:305][651]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.03.20:766][146]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx)
+[2019.06.26-05.03.20:781][146]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx
+[2019.06.26-05.03.20:810][146]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.26-05.03.22:939][146]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:978][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:979][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:979][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:979][146]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.06.26-05.03.22:979][146]FBXImport: Error: Mesh contains group3 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.26-05.03.22:979][146]FBXImport: Error: Import failed. 
+[2019.06.26-05.03.25:215][146]LogSlate: Window 'Message' being destroyed
+[2019.06.26-05.03.25:224][146]LogAssetTools: Warning: Failed to import 'C:/Users/xavie/OneDrive/Documents/GitHub/mannequin/walkAnimation002.fbx'. Failed to create asset '/Game/mannequin/walkAnimation002'.
+Please see Output Log for details.
+[2019.06.26-05.06.00:247][ 85]LogSlate: Window 'Message Log' being destroyed
+[2019.06.26-05.06.12:038][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.26-05.06.14:008][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-05.09.59:796][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-05.10.03:552][328]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.26-05.10.03:554][328]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.26-05.10.03:853][329]Cmd: QUIT_EDITOR
+[2019.06.26-05.10.04:070][329]LogExit: Preparing to exit.
+[2019.06.26-05.10.04:268][329]LogExit: Editor shut down
+[2019.06.26-05.10.04:269][329]LogExit: Transaction tracking system shut down
+[2019.06.26-05.10.04:676][329]LogExit: Object subsystem successfully closed.
+[2019.06.26-05.10.04:734][329]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.26-05.10.04:750][329]LogD3D11RHI: Shutdown
+[2019.06.26-05.10.04:750][329]LogD3D11RHI: CleanupD3DDevice
+[2019.06.26-05.10.04:792][329]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module AnimationEditor (640)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (638)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module Voice (636)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (634)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module PinnedCommandList (632)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module SkeletonEditor (630)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (626)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.06.26-05.10.04:824][329]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.06.26-05.10.04:828][329]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.06.26-05.10.04:828][329]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.06.26-05.10.04:828][329]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.26-05.10.04:829][329]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.26-05.10.04:830][329]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.26-05.10.04:831][329]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.26-05.10.04:832][329]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.26-05.10.04:833][329]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.26-05.10.05:062][329]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.26-05.10.05:063][329]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.26-05.10.05:119][329]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.26-05.10.05:120][329]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.26-05.10.05:120][329]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.26-05.10.05:120][329]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.26-05.10.05:120][329]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.26-05.10.05:121][329]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.26-05.10.05:127][329]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.26-05.10.05:198][329]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.26-05.10.05:205][329]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.26-05.10.05:206][329]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.26-05.10.05:207][329]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.26-05.10.05:208][329]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.26-05.10.05:308][329]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.26-05.10.05:409][329]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.26-05.10.05:411][329]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.26-05.10.05:411][329]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.26-05.10.05:411][329]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.26-05.10.05:411][329]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.26-05.10.05:772][329]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.26-05.10.05:776][329]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.26-05.10.05:784][329]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.26-05.10.05:791][329]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.26-05.10.05:792][329]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.26-05.10.05:793][329]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.26-05.10.05:793][329]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.26-05.10.05:793][329]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.26-05.10.05:793][329]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.26-05.10.05:796][329]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.26-05.10.05:797][329]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.26-05.10.05:897][329]LogDerivedDataCache: Shutdown
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.26-05.10.05:898][329]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.26-05.10.05:899][329]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.26-05.10.05:913][329]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.26-05.10.05:913][329]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.26-05.10.05:913][329]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.26-05.10.05:913][329]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.26-05.10.05:913][329]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.26-05.10.05:920][329]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.26-05.10.05:920][329]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.26-05.10.05:925][329]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.26-05.10.05:925][329]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.26-05.10.05:970][329]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.26-05.10.05:970][329]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.26-05.10.05:970][329]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.26-05.10.05:971][329]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.26-05.10.05:971][329]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.26-05.10.05:972][329]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.26-05.10.05:973][329]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.26-05.10.05:973][329]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.26-05.10.05:981][329]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.26-05.10.05:981][329]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.26-05.10.05:981][329]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47DB6871-417C-AF02-4D08-8F8AD8794DCF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=a2f3d24f48fdc9995ef5e6ad6768f442%7C49f8fe8f46b94eb687e0a6e05db2eb22%7C0fc7785b-7b89-463e-ac4b-149904c4b23e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.26-05.10.06:012][329]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.26-05.10.06:014][329]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.26-05.10.06:014][329]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.26-05.10.06:015][329]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.26-05.10.06:015][329]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.26-05.10.06:015][329]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.26-05.10.06:015][329]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.26-05.10.06:016][329]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.26-05.10.06:029][329]LogExit: Exiting.
+[2019.06.26-05.10.06:052][329]Log file closed, 06/25/19 23:10:06

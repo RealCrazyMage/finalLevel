@@ -1,0 +1,733 @@
+﻿Log file open, 06/15/19 01:37:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303575
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.261s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/EPICGAMES/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.15-07.37.19:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.15-07.37.19:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:288][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:292][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.15-07.37.19:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.15-07.37.19:293][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.15-07.37.19:293][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-07.37.19:293][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.15-07.37.19:308][  0]LogHAL: Display: Platform has ~ 16 GB [17066803200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.15-07.37.19:308][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.15-07.37.19:308][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.15-07.37.19:308][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.15-07.37.19:309][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.15-07.37.19:310][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.15-07.37.19:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.15-07.37.19:310][  0]LogInit: Computer: LAPTOP-ODSBRGOU
+[2019.06.15-07.37.19:310][  0]LogInit: User: xavie
+[2019.06.15-07.37.19:310][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.15-07.37.19:310][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.15-07.37.19:310][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.15-07.37.19:310][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.15-07.37.19:310][  0]LogMemory: Process Physical Memory: 102.11 MB used, 102.12 MB peak
+[2019.06.15-07.37.19:310][  0]LogMemory: Process Virtual Memory: 91.30 MB used, 91.30 MB peak
+[2019.06.15-07.37.19:310][  0]LogMemory: Physical Memory: 7766.31 MB used,  8509.86 MB free, 16276.17 MB total
+[2019.06.15-07.37.19:310][  0]LogMemory: Virtual Memory: 4649.95 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.15-07.37.19:338][  0]LogInit: Using OS detected language (en-US).
+[2019.06.15-07.37.19:338][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.15-07.37.19:340][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.15-07.37.19:785][  0]LogStreaming: Display: Took  0.447s to InitEngineTextLocalization.
+[2019.06.15-07.37.19:785][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.15-07.37.19:831][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.15-07.37.19:831][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.15-07.37.20:495][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-07.37.20:495][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.15-07.37.20:578][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.06.15-07.37.20:578][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.15-07.37.20:597][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.06.15-07.37.20:597][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.15-07.37.20:600][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.15-07.37.20:600][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.15-07.37.20:600][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.15-07.37.20:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.15-07.37.20:651][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.15-07.37.20:651][  0]LogWindows: EnumDisplayDevices:
+[2019.06.15-07.37.20:652][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.06.15-07.37.20:652][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.15-07.37.20:652][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.15-07.37.20:653][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.15-07.37.20:653][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.06.15-07.37.20:653][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.06.15-07.37.20:653][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.06.15-07.37.20:653][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.06.15-07.37.20:653][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.06.15-07.37.20:698][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.15-07.37.20:713][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.15-07.37.21:233][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.15-07.37.21:250][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.15-07.37.21:267][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.15-07.37.21:284][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.15-07.37.21:306][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.15-07.37.21:322][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.15-07.37.21:340][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.15-07.37.21:356][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.15-07.37.21:363][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:460][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-07.37.21:463][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.15-07.37.21:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-07.37.21:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-07.37.21:561][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-07.37.21:561][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-07.37.21:581][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.15-07.37.21:600][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.15-07.37.21:616][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.15-07.37.21:639][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.15-07.37.21:700][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.15-07.37.21:700][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.15-07.37.21:700][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.15-07.37.21:806][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/22928/).
+[2019.06.15-07.37.21:806][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xavie/AppData/Local/Temp/UnrealShaderWorkingDir/E835F1FA4D8AA00DF99EF68ECE9F0857/'.
+[2019.06.15-07.37.21:808][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.15-07.37.21:808][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.15-07.37.21:808][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.15-07.37.22:472][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.15-07.37.22:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.15-07.37.22:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.15-07.37.22:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.15-07.37.22:586][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.15-07.37.22:599][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xavie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.15-07.37.22:599][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.15-07.37.22:599][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.15-07.37.22:628][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.15-07.37.22:629][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.15-07.37.22:631][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.15-07.37.22:733][  0]LogAssetRegistry: FAssetRegistry took 0.0394 seconds to start up
+[2019.06.15-07.37.23:193][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-07.37.23:379][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.15-07.37.23:384][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.15-07.37.23:384][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.15-07.37.23:384][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.15-07.37.23:384][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.15-07.37.23:409][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.15-07.37.24:145][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.131068 seconds
+[2019.06.15-07.37.24:152][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.15-07.37.24:152][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.15-07.37.24:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.15-07.37.25:213][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.15-07.37.25:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.15-07.37.26:018][  0]SourceControl: Source control is disabled
+[2019.06.15-07.37.26:018][  0]SourceControl: Source control is disabled
+[2019.06.15-07.37.26:020][  0]SourceControl: Source control is disabled
+[2019.06.15-07.37.26:021][  0]SourceControl: Source control is disabled
+[2019.06.15-07.37.26:233][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.15-07.37.26:389][  0]LogOcInput: OculusInput pre-init called
+[2019.06.15-07.37.26:551][  0]LogEngine: Initializing Engine...
+[2019.06.15-07.37.26:552][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-07.37.26:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-07.37.26:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-07.37.26:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.15-07.37.26:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-07.37.26:844][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.15-07.37.26:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.15-07.37.26:961][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.15-07.37.26:979][  0]LogInit: FAudioDevice initialized.
+[2019.06.15-07.37.26:979][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.15-07.37.27:146][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/xavie/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.15-07.37.27:147][  0]LogInit: Texture streaming: Enabled
+[2019.06.15-07.37.27:173][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.15-07.37.27:190][  0]LogInit: Transaction tracking system initialized
+[2019.06.15-07.37.27:220][  0]BlueprintLog: New page: Editor Load
+[2019.06.15-07.37.27:314][  0]LocalizationService: Localization service is disabled
+[2019.06.15-07.37.27:900][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/' took 0.02s
+[2019.06.15-07.37.27:900][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.15-07.37.27:900][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.15-07.37.27:901][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.15-07.37.27:901][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-07.37.27:901][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-07.37.27:901][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.15-07.37.27:901][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-07.37.28:053][  0]SourceControl: Source control is disabled
+[2019.06.15-07.37.28:053][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.15-07.37.28:053][  0]LightingResults: New page: Lighting Build
+[2019.06.15-07.37.28:056][  0]MapCheck: New page: Map Check
+[2019.06.15-07.37.28:056][  0]LightingResults: New page: Lighting Build
+[2019.06.15-07.37.28:274][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.15-07.37.28:286][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.15-07.37.28:312][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.15-07.37.28:313][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2019.06.15-07.37.28:313][  0]LogFileHelpers: Loading map 'Template_Default' took 0.260
+[2019.06.15-07.37.28:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-07.37.28:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-07.37.28:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-07.37.28:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-07.37.28:498][  0]LogCollectionManager: Loaded 0 collections in 0.002024 seconds
+[2019.06.15-07.37.28:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.15-07.37.28:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Developers/xavie/Collections/' took 0.00s
+[2019.06.15-07.37.28:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/Collections/' took 0.00s
+[2019.06.15-07.37.28:515][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.15-07.37.28:531][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2651 classes and 620 folders.
+[2019.06.15-07.37.28:541][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.15-07.37.28:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.15-07.37.28:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.15-07.37.28:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.15-07.37.28:721][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.15-07.37.28:724][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.15-07.37.28:733][  0]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.15-07.37.28:874][  0]LogRenderer: Reallocating scene render targets to support 1004x460 Format 10 NumSamples 1 (Frame:1).
+[2019.06.15-07.37.29:204][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.15-07.37.29:204][  0]LogLoad: (Engine Initialization) Total time: 14.34 seconds
+[2019.06.15-07.37.29:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.15-07.37.29:270][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.15-07.37.29:368][  2]LogAssetRegistry: Asset discovery search completed in 6.6580 seconds
+[2019.06.15-07.37.29:370][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.15-07.37.29:370][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.06.15-07.37.32:076][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-07.37.33:826][257]LogSlate: Took 0.004035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.15-07.37.34:165][257]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2019.06.15-07.37.34:189][257]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2019.06.15-07.37.34:219][257]Cmd: MAP LOAD FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.15-07.37.34:219][257]LightingResults: New page: Lighting Build
+[2019.06.15-07.37.34:220][257]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2019.06.15-07.37.34:221][257]MapCheck: New page: Map Check
+[2019.06.15-07.37.34:221][257]LightingResults: New page: Lighting Build
+[2019.06.15-07.37.34:264][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.15-07.37.34:305][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.15-07.37.34:305][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2019.06.15-07.37.34:305][257]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.087
+[2019.06.15-07.46.22:889][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock013)
+[2019.06.15-07.46.40:484][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-07.46.40:635][668]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2019.06.15-07.46.40:661][668]Cmd: MAP LOAD FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.15-07.46.40:661][668]LightingResults: New page: Lighting Build
+[2019.06.15-07.46.40:661][668]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2019.06.15-07.46.40:666][668]MapCheck: New page: Map Check
+[2019.06.15-07.46.40:666][668]LightingResults: New page: Lighting Build
+[2019.06.15-07.46.40:850][668]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2019.06.15-07.46.40:870][668]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.15-07.46.40:916][668]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.15-07.46.40:917][668]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2019.06.15-07.46.40:918][668]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.258
+[2019.06.15-07.46.49:947][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-07.46.51:876][286]LogActorFactory: Actor Factory created plainBlock001
+[2019.06.15-07.46.54:850][456]LogActorFactory: Actor Factory created plainBlock001
+[2019.06.15-07.47.05:011][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.47.36:012][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.47.56:105][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.47.57:613][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.47.57:636][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.47.58:743][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (plainBlock72)
+[2019.06.15-07.47.58:953][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.48.00:078][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase56)
+[2019.06.15-07.48.11:465][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-07.48.37:396][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase29)
+[2019.06.15-07.48.38:220][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock171)
+[2019.06.15-07.48.40:810][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock2)
+[2019.06.15-07.48.41:419][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock42)
+[2019.06.15-07.48.42:341][743]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock82)
+[2019.06.15-07.48.42:732][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock202)
+[2019.06.15-07.48.43:959][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.48.50:116][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock202)
+[2019.06.15-07.49.06:246][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.49.25:303][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.49.33:324][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock202)
+[2019.06.15-07.49.33:971][787]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock82)
+[2019.06.15-07.49.35:004][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock42)
+[2019.06.15-07.49.35:769][889]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock2)
+[2019.06.15-07.50.05:496][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock211)
+[2019.06.15-07.50.06:714][713]Cmd: DELETE
+[2019.06.15-07.50.06:714][713]Cmd: ACTOR DELETE
+[2019.06.15-07.50.06:732][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.15-07.50.06:755][713]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.06.15-07.50.11:544][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock216)
+[2019.06.15-07.50.12:536][ 56]Cmd: DELETE
+[2019.06.15-07.50.12:536][ 56]Cmd: ACTOR DELETE
+[2019.06.15-07.50.12:553][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.15-07.50.12:580][ 56]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.06.15-07.50.14:004][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.50.30:136][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock215)
+[2019.06.15-07.50.30:785][136]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock214)
+[2019.06.15-07.50.31:402][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock213)
+[2019.06.15-07.50.31:853][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock212)
+[2019.06.15-07.50.36:069][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock5)
+[2019.06.15-07.50.40:884][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock212)
+[2019.06.15-07.50.41:210][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock213)
+[2019.06.15-07.50.41:544][735]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock214)
+[2019.06.15-07.50.41:851][750]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock215)
+[2019.06.15-07.50.44:289][892]Cmd: TRANSACTION UNDO
+[2019.06.15-07.50.44:289][892]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.51.11:548][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.51.14:896][687]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock210)
+[2019.06.15-07.51.16:019][750]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock209)
+[2019.06.15-07.51.17:678][845]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock208)
+[2019.06.15-07.51.18:796][909]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock207)
+[2019.06.15-07.51.19:663][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase50)
+[2019.06.15-07.51.23:039][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock206)
+[2019.06.15-07.51.23:785][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock205)
+[2019.06.15-07.51.24:984][234]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock215)
+[2019.06.15-07.51.28:063][413]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock214)
+[2019.06.15-07.51.30:846][575]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock212)
+[2019.06.15-07.51.32:248][656]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock42)
+[2019.06.15-07.51.35:605][853]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock2)
+[2019.06.15-07.51.37:076][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock82)
+[2019.06.15-07.51.38:999][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock202)
+[2019.06.15-07.51.40:153][115]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock213)
+[2019.06.15-07.51.41:414][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock203)
+[2019.06.15-07.51.42:702][261]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock204)
+[2019.06.15-07.51.44:139][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.52.17:842][335]Cmd: TRANSACTION UNDO
+[2019.06.15-07.52.17:842][335]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.52.18:285][352]Cmd: TRANSACTION UNDO
+[2019.06.15-07.52.18:285][352]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.52.43:049][822]Cmd: TRANSACTION REDO
+[2019.06.15-07.52.43:049][822]LogEditorTransaction: Redo Move Actors
+[2019.06.15-07.52.43:580][846]Cmd: TRANSACTION REDO
+[2019.06.15-07.52.43:580][846]LogEditorTransaction: Redo Move Actors
+[2019.06.15-07.52.44:487][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.52.44:518][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.15-07.52.45:130][896]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/StreetSceneLarge31FC6AB546CCEBC8A365CFB1E17A6625.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.15-07.52.45:155][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_BuiltData" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset" SILENT=true
+[2019.06.15-07.52.45:276][896]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltDataE62B22AF457549A6EE42EC8D98B0E3F5.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.15-07.53.03:772][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock225)
+[2019.06.15-07.53.04:198][994]Cmd: TRANSACTION UNDO
+[2019.06.15-07.53.04:198][994]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.15-07.53.04:429][  3]Cmd: TRANSACTION UNDO
+[2019.06.15-07.53.04:429][  3]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.53.18:084][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock228)
+[2019.06.15-07.53.23:343][104]Cmd: TRANSACTION UNDO
+[2019.06.15-07.53.23:343][104]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.15-07.54.15:427][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.54.15:457][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.15-07.54.16:157][118]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/StreetSceneLarge66CB22A642613EC116441B8C2DEAF43F.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.15-07.54.16:180][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_BuiltData" FILE="C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset" SILENT=true
+[2019.06.15-07.54.16:258][118]LogSavePackage: Moving 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltData267468C344958613E1DF30AD3FE4CE33.tmp' to 'C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.15-07.57.17:587][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-07.57.21:244][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.57.22:631][756]LogSlate: Window 'Message' being destroyed
+[2019.06.15-07.57.22:643][756]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/plainBlock001.obj)
+[2019.06.15-07.57.22:650][756]LogEditorFactories: Performing atomic reimport of [C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/plainBlock001.obj]
+[2019.06.15-07.57.22:661][756]LogFbx: Loading FBX Scene from C:/Users/xavie/OneDrive/Documents/GitHub/CastleBlock/plainBlock001.obj
+[2019.06.15-07.57.22:702][756]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.15-07.57.22:709][756]LogFbx: Warning: Triangulating static mesh pCube1
+[2019.06.15-07.57.22:719][756]LogStaticMesh: Building static mesh plainBlock001...
+[2019.06.15-07.57.22:727][756]LogStaticMesh: Built static mesh [0.01s] /Game/CastleBlocks/plainBlock001.plainBlock001
+[2019.06.15-07.57.22:729][756]LogStaticMesh: Warning: plainBlock001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.15-07.57.22:729][756]LogStaticMesh: Warning: plainBlock001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.15-07.57.22:747][756]LogEditorFactories: -- imported successfully
+[2019.06.15-07.57.22:750][756]FBXImport: Warning: plainBlock001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.15-07.57.22:750][756]FBXImport: Warning: plainBlock001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.15-07.57.54:476][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock355)
+[2019.06.15-07.57.55:118][629]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock356)
+[2019.06.15-07.57.55:734][663]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock357)
+[2019.06.15-07.57.56:253][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plainBlock358)
+[2019.06.15-07.58.07:499][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.58.10:633][539]Cmd: TRANSACTION UNDO
+[2019.06.15-07.58.10:633][539]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.58.24:846][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-07.58.26:313][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (top8)
+[2019.06.15-07.58.39:694][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plainBlock349)
+[2019.06.15-07.58.42:499][401]Cmd: TRANSACTION UNDO
+[2019.06.15-07.58.42:500][401]LogEditorTransaction: Undo Move Actors
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SyncInterval 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.Width 8
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.Height 108
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000051388
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.06.15-07.58.42:742][411]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.06.15-07.58.42:742][411]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error E_INVALIDARG
+[2019.06.15-07.58.43:263][411]LogWindows: Windows GetLastError: The operation completed successfully. (0)
